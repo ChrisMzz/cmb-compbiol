@@ -7,7 +7,7 @@ import pdb
 r = 0.6 # reproduction rate
 
 # carrying capacity K :
-K0, sigma_k = 2, 0.2
+K0, sigma_k = 100, 0.2
 
 # strength of competition between individuals with trait values x1 and x2
 sigma_c = 0.5
@@ -32,9 +32,7 @@ class Individual:
             self.Y = parent.Y
             if np.random.rand() < mu:
                 self.X = np.random.normal(parent.X, sigma_m)
-                self.Y = np.random.normal(parent.Y, sigma_m)
-                
-            
+                self.Y = np.random.normal(parent.Y, sigma_m)      
         
     def K(self): 
         return K0*np.exp(-self.X**2/(2*sigma_k**2))
@@ -53,13 +51,22 @@ class Individual:
     
     def W(self, pop: list[Individual]):
         return np.exp(r*(1-self.delta(pop)))
+    
+    def make_offspring(self, pop: list[Individual]) -> list[Individual]:
+        return [Individual(self) for _ in range(np.random.poisson(self.W(pop)))]
 
 
 if __name__ == '__main__':
     
     # checking that Individual intialisation works fine
-    A = Individual()
-    B = Individual(A)
+    # A = Individual()
+    # B = Individual(A)
+    
+    
+    init_pop = [Individual() for _ in range(K0)]
+    # run simulation
+    
+    
     
     
     #pdb.set_trace()
