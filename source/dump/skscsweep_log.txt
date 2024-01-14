@@ -1,0 +1,91 @@
+sk=0.01, sc=0.01
+sk=0.01, sc=0.05
+Everyone died horribly.
+sk=0.01, sc=0.1
+Everyone died horribly.
+sk=0.01, sc=0.5
+Everyone died horribly.
+sk=0.01, sc=1.0
+Everyone died horribly.
+sk=0.01, sc=5.0
+Everyone died horribly.
+sk=0.01, sc=10.0
+Everyone died horribly.
+sk=0.05, sc=0.01
+sk=0.05, sc=0.05
+Everyone died horribly.
+sk=0.05, sc=0.1
+Everyone died horribly.
+sk=0.05, sc=0.5
+Everyone died horribly.
+sk=0.05, sc=1.0
+Everyone died horribly.
+sk=0.05, sc=5.0
+Everyone died horribly.
+sk=0.05, sc=10.0
+Everyone died horribly.
+sk=0.1, sc=0.01
+sk=0.1, sc=0.05
+Everyone died horribly.
+sk=0.1, sc=0.1
+Everyone died horribly.
+sk=0.1, sc=0.5
+Everyone died horribly.
+sk=0.1, sc=1.0
+Everyone died horribly.
+sk=0.1, sc=5.0
+Everyone died horribly.
+sk=0.1, sc=10.0
+Everyone died horribly.
+sk=0.5, sc=0.01
+sk=0.5, sc=0.05
+Everyone died horribly.
+sk=0.5, sc=0.1
+Everyone died horribly.
+sk=0.5, sc=0.5
+Everyone died horribly.
+sk=0.5, sc=1.0
+Everyone died horribly.
+sk=0.5, sc=5.0
+Everyone died horribly.
+sk=0.5, sc=10.0
+Everyone died horribly.
+sk=1.0, sc=0.01
+sk=1.0, sc=0.05
+Everyone died horribly.
+sk=1.0, sc=0.1
+Everyone died horribly.
+sk=1.0, sc=0.5
+Survived.
+sk=1.0, sc=1.0
+Survived.
+sk=1.0, sc=5.0
+Survived.
+sk=1.0, sc=10.0
+Survived.
+sk=5.0, sc=0.01
+sk=5.0, sc=0.05
+Everyone died horribly.
+sk=5.0, sc=0.1
+Survived.
+sk=5.0, sc=0.5
+Survived.
+sk=5.0, sc=1.0
+Survived.
+sk=5.0, sc=5.0
+Survived.
+sk=5.0, sc=10.0
+Survived.
+sk=10.0, sc=0.01
+sk=10.0, sc=0.05
+Everyone died horribly.
+sk=10.0, sc=0.1
+Survived.
+sk=10.0, sc=0.5
+Survived.
+sk=10.0, sc=1.0
+Survived.
+sk=10.0, sc=5.0
+Survived.
+sk=10.0, sc=10.0
+Survived.

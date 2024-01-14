@@ -1,0 +1,65 @@
+x0=-2.0, sc=0.01
+x0=-2.0, sc=0.05
+Everyone died horribly.
+x0=-2.0, sc=0.1
+Everyone died horribly.
+x0=-2.0, sc=0.5
+Survived.
+x0=-2.0, sc=1.0
+Survived.
+x0=-2.0, sc=5.0
+Survived.
+x0=-2.0, sc=10.0
+Survived.
+x0=-1.0, sc=0.01
+x0=-1.0, sc=0.05
+Everyone died horribly.
+x0=-1.0, sc=0.1
+Survived.
+x0=-1.0, sc=0.5
+Survived.
+x0=-1.0, sc=1.0
+Survived.
+x0=-1.0, sc=5.0
+Survived.
+x0=-1.0, sc=10.0
+Survived.
+x0=0.0, sc=0.01
+x0=0.0, sc=0.05
+Everyone died horribly.
+x0=0.0, sc=0.1
+Survived.
+x0=0.0, sc=0.5
+Survived.
+x0=0.0, sc=1.0
+Survived.
+x0=0.0, sc=5.0
+Survived.
+x0=0.0, sc=10.0
+Survived.
+x0=1.0, sc=0.01
+x0=1.0, sc=0.05
+Everyone died horribly.
+x0=1.0, sc=0.1
+Survived.
+x0=1.0, sc=0.5
+Survived.
+x0=1.0, sc=1.0
+Survived.
+x0=1.0, sc=5.0
+Survived.
+x0=1.0, sc=10.0
+Survived.
+x0=2.0, sc=0.01
+x0=2.0, sc=0.05
+Everyone died horribly.
+x0=2.0, sc=0.1
+Everyone died horribly.
+x0=2.0, sc=0.5
+Survived.
+x0=2.0, sc=1.0
+Everyone died horribly.
+x0=2.0, sc=5.0
+Survived.
+x0=2.0, sc=10.0
+Survived.
